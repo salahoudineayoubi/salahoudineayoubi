@@ -1,8 +1,6 @@
 
 Hello, I'm Pemi Salaoudine Ayoubi Ben Ali 👋
-
 Founder @ NombaLink | Coordinator @ Lap Nomba Foundation | CTO @ KolayExpress
-
 Building scalable software, AI-powered solutions, and digital infrastructure for Africa.
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/salahoudineayoubi) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/salahoudineayoubi) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/salahoudineayoubi) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@salahoudineayoubi) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@salahoudineayoubi) 
