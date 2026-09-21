@@ -1,19 +1,24 @@
-# Hi there 👋, I'm Pemi Salaoudine Ayoubi Ben Ali
+# Hi there 👋, I'm Ayoubi Ben Ali Pemi Salaoudine
 
-### 🚀 Founder @ NombaLink | 🌍 Coordinator @ Lap Nomba Foundation | ⚙️ CTO @ KolayExpress
+### ⚙️ Co-Founder & CTO @ KolayExpress | 🌍 Coordinator @ Lap Nomba Foundation
 
 I build technology that creates opportunities.
 
-Passionate about software engineering, artificial intelligence, data engineering, cloud computing, and digital infrastructure, I design scalable products that empower businesses, connect talent with opportunities, and contribute to Africa's digital transformation.
+As Co-Founder & CTO at **KolayExpress**, I lead the development of AI-enabled cross-border commerce infrastructure connecting suppliers across Türkiye and the MENA region with African consumers, retailers, and businesses.
+
+My work spans marketplace architecture, payments, logistics, AI-assisted commerce, mobile and web platforms, integrations, and scalable backend infrastructure.
+
+Passionate about software engineering, artificial intelligence, data engineering, cloud computing, and digital infrastructure, I focus on building practical technology that strengthens businesses and contributes to Africa’s digital transformation.
 
 ---
 
 ## 🚀 Current Focus
 
-- 🏗 Building **NombaLink**, an AI-powered marketplace connecting talent with opportunities.
-- 🌍 Coordinating **Lap Nomba Foundation**, empowering Africa's next generation of ethical technology leaders.
-- ⚙️ Leading technology at **KolayExpress**, building cross-border digital trade infrastructure.
-- 🤖 Exploring Artificial Intelligence, Data Engineering, Cloud Computing, Cybersecurity, and Distributed Systems.
+- ⚙️ Building **KolayExpress**, an AI-enabled cross-border commerce infrastructure connecting Türkiye & MENA with African markets.
+- 🛒 Developing scalable marketplace, catalog, supplier, payment, and logistics systems.
+- 🤖 Building AI-assisted commerce tools for product discovery, catalog enrichment, and sourcing.
+- 🌍 Coordinating **Lap Nomba Foundation**, empowering young people through technology, training, and digital opportunities.
+- ☁️ Exploring Artificial Intelligence, Data Engineering, Cloud Computing, Cybersecurity, and Distributed Systems.
 
 ---
 
