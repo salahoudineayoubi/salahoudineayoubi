@@ -1,86 +1,60 @@
-# Hi there 👋, I'm Ayoubi Ben Ali Pemi Salaoudine
+<h1 align="center">Pemi Salaoudine Ayoubi Ben Ali</h1>
 
-### ⚙️ Co-Founder & CTO @ KolayExpress | 🌍 Coordinator @ Lap Nomba Foundation
+<p align="center">
+  <b>Co-Founder &amp; CTO @ <a href="https://kolayexpress.com">KolayExpress</a></b> · Full-Stack &amp; AI Software Engineer<br>
+  I build production commerce software end to end, from API to app store.
+</p>
 
-I build technology that creates opportunities.
-
-As Co-Founder & CTO at **KolayExpress**, I lead the development of AI-enabled cross-border commerce infrastructure connecting suppliers across Türkiye and the MENA region with African consumers, retailers, and businesses.
-
-My work spans marketplace architecture, payments, logistics, AI-assisted commerce, mobile and web platforms, integrations, and scalable backend infrastructure.
-
-Passionate about software engineering, artificial intelligence, data engineering, cloud computing, and digital infrastructure, I focus on building practical technology that strengthens businesses and contributes to Africa’s digital transformation.
-
----
-
-## 🚀 Current Focus
-
-- ⚙️ Building **KolayExpress**, an AI-enabled cross-border commerce infrastructure connecting Türkiye & MENA with African markets.
-- 🛒 Developing scalable marketplace, catalog, supplier, payment, and logistics systems.
-- 🤖 Building AI-assisted commerce tools for product discovery, catalog enrichment, and sourcing.
-- 🌍 Coordinating **Lap Nomba Foundation**, empowering young people through technology, training, and digital opportunities.
-- ☁️ Exploring Artificial Intelligence, Data Engineering, Cloud Computing, Cybersecurity, and Distributed Systems.
+<p align="center">
+  <a href="https://salahoudine.me"><img src="https://img.shields.io/badge/salahoudine.me-111111?style=flat-square&logo=googlechrome&logoColor=white" alt="Website"></a>
+  <a href="https://www.linkedin.com/in/pemi-salaoudine-ayoubi-ben-ali/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.kaggle.com/salahoudinepemi"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white" alt="Kaggle"></a>
+  <a href="mailto:contact@salahoudine.me"><img src="https://img.shields.io/badge/contact@salahoudine.me-EA4335?style=flat-square&logo=maildotru&logoColor=white" alt="Email"></a>
+</p>
 
 ---
 
-## 🌐 Connect with Me
+### About
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/salahoudine-ayoubi-a563902b8)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@salahoudineayoubi)
-[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@salahoudineayoubi)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/salahoudineayoubi)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/salahoudineayoubi)
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/salahoudineayoubi)
+I'm the technical co-founder of **KolayExpress**, a cross-border commerce platform connecting suppliers in **Türkiye and the Middle East** with buyers across **Africa**. I designed and ship the whole stack: the marketplace, supplier and forwarder tools, payments, logistics and AI features, on web, mobile and backend.
 
----
+I care about software that holds up in production: typed code, automated tests, secure defaults and fast iteration. I also work daily with **AI coding agents** and the engineering discipline needed to run them safely at scale.
 
-# 💻 Tech Stack
+Based in **Yaoundé, Cameroon** · working with teams in Istanbul · open to remote.
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white)
-![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white)
-![Django REST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
-![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD)
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+### What I've built
+
+| | |
+|---|---|
+| **17 applications** in production | 10+ React web apps, 3 React Native apps (Google Play &amp; App Store), Node.js / GraphQL API |
+| **~2,400 automated tests** | Jest and Testing Library across backend, web and mobile |
+| **Payments** | Mobile Money (MTN, Orange), checkout idempotency, supplier payouts and withdrawals |
+| **Marketplace core** | Alibaba-style catalog (categories, attributes, variant axes), supplier onboarding, order and logistics flows |
+| **Real-time &amp; messaging** | Customer ↔ supplier ↔ forwarder chat, WhatsApp integration, notifications |
+| **AI features** | OpenAI-powered catalog enrichment, product discovery and multilingual content |
+| **5 languages** | English, French, Turkish, Arabic (full RTL), Swahili |
+
+### Currently
+
+- 🛒 Scaling **KolayExpress**: marketplace, supplier and logistics systems for Türkiye & MENA → Africa trade.
+- 🤖 Running **parallel AI coding agents** with explicit ownership, review and tests. See [concord-demo](https://github.com/salahoudineayoubi/concord-demo): two Claude agents editing the same file safely through Concord MCP.
+- 🌍 Co-founding **Lap Nomba Foundation**: digital-skills training that helps young Cameroonians build legitimate careers in tech.
+- 🎓 B.Sc. Software Engineering (in progress), CUIST Yaoundé.
+
+### Stack
+
+**Languages:** TypeScript · JavaScript · Python · PHP · Dart<br>
+**Frontend:** React · Material UI · Apollo Client · HTML · CSS<br>
+**Mobile:** React Native · Expo · EAS · Flutter<br>
+**Backend:** Node.js · Express · GraphQL · REST · Django · Laravel<br>
+**Data:** MongoDB · Redis · MySQL · Firebase<br>
+**AI:** OpenAI API · LLM agents & MCP · TensorFlow<br>
+**Cloud & tooling:** Cloudinary · Google Cloud · AWS · Git · GitHub Actions · Jest
+
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nodejs,graphql,mongodb,redis,python,firebase,gcp,aws,git,githubactions,jest,figma" alt="Tech stack">
+</p>
 
 ---
 
-# 📊 GitHub Analytics
-
-![](https://github-readme-stats.vercel.app/api?username=salahoudineayoubi&theme=dark&show_icons=true&include_all_commits=true&count_private=true)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=salahoudineayoubi&theme=dark)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=salahoudineayoubi&theme=dark&layout=compact&include_all_commits=true&count_private=true)
-
----
-
-## 💡 Mission
-
-> **Building Africa's digital future through ethical AI, scalable software, and cross-border digital infrastructure.**
-
----
-
-![](https://visitcount.itsvg.in/api?id=salahoudineayoubi&icon=0&color=0)
+<p align="center"><i>Building Africa's digital future with scalable software, practical AI and cross-border digital infrastructure.</i></p>
